@@ -1,0 +1,39 @@
+html {
+    background-color: #FFFCFF;
+}
+body {
+    width: 35%;
+    margin: 45px 15px 60px 15px;
+    padding: 0 20px 20px 20px;
+    border: 1px transparent;
+    font-family: 'Work Sans', sans-serif;
+}
+h1 {
+    font-size 20px;
+    font-style: 400;
+    margin: 4px 0px;
+}
+h2 {
+    font-size: 15px;
+    font-style: 900;
+    color: #4736FF;
+}
+p {
+    font-size: 15px;
+    line-height: 1.5;
+    letter-spacing -2;
+    font-style: 400;
+    color: black;
+}
+a {
+    background-color: #FFFCFF;
+    text-decoration: none;
+    display: inline-block;
+    color: #9E9C9E;
+} 
+a:hover {
+    background-color: #F3FF00;
+    text-decoration: underline;
+    display: inline-block;
+    color: black;
+}
