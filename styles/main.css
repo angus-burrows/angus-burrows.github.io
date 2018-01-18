@@ -6,17 +6,18 @@ body {
     position: absolute;
 }
 .container {
-    display: block;
-    position: center;
+    display: ;
+    position: centre;
     height: 100%;
     width: 600px;
     margin-top: 100px;
-    margin-left: 90%;
+    margin-left: 80%;
     padding-left: 60px;
     padding-top: 60px;
-    padding-right: 30px;
+    padding-right: 60px;
     padding-bottom: 60px;
     background-color: rgb(255, 255, 255);
+    box-shadow: 0px 100px 300px rgba(28, 28, 28, 19);
 }
 h1 {
     font-size 20px;
