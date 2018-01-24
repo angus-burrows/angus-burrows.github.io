@@ -1,5 +1,6 @@
 * {
     border: 1px solid red !important;
+    font-family: sans-serif;
 }
 * {
     -webkit-box-sizing: border-box;
@@ -9,14 +10,26 @@
 }
 .row {
     width: 100%;
-    display: block;
+    margin: 0;
 }
 .title {
+    margin-left: 40px;
 }
 .intro {
+    margin-left: 40px;
+    width: 50%;
 }
 .blog {
 }
 h1 {
-    font-family: sans-serif;
+}
+ul {
+width: 25%;
+}
+li {
+    display: inherit;
+
+}
+a {
+    text-decoration: none;
 }
