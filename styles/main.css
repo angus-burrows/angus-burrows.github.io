@@ -19,6 +19,11 @@
 .title {
     margin-left: 40px;
 }
+.content {
+    border: 1px solid red;
+    width: 100%;
+    margin-bottom: 20px;
+}
 .intro {
     margin-left: 40px;
     width: 100%;
@@ -28,6 +33,10 @@
 }
 h1 {
     font-weight: 400;
+}
+h2 {
+    font-weight: inherit;
+    font-size: 16px;
 }
 ul {
 width: 100%;
