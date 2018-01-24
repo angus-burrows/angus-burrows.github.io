@@ -1,12 +1,15 @@
 * {
     border: 1px solid red !important;
-    font-family: sans-serif;
+    font-family: 'Work Sans', sans-serif;
 }
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     box-sizing: border-box;
+}
+.container {
+    padding: 5%;
 }
 .row {
     width: 100%;
@@ -17,14 +20,16 @@
 }
 .intro {
     margin-left: 40px;
-    width: 50%;
+    width: 100%;
+    padding-right: 20%;
 }
 .blog {
 }
 h1 {
+    font-weight: bolder;
 }
 ul {
-width: 25%;
+width: 100%;
 }
 li {
     display: inherit;
